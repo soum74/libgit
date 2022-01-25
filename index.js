@@ -1,5 +1,3 @@
-Bonjour comment va tu ?
-
 ---
 
 - name: "Install PHP"
